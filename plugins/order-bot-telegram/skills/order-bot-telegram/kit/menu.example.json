@@ -1,0 +1,15 @@
+{
+  "currency": "грн",
+  "categories": [
+    {"id": "coffee", "title": "Кава", "items": [
+      {"id": "esp", "title": "Еспресо", "price": 50},
+      {"id": "cap", "title": "Капучино", "price": 70},
+      {"id": "lat", "title": "Лате", "price": 75}
+    ]},
+    {"id": "food", "title": "Їжа", "items": [
+      {"id": "cro", "title": "Круасан", "price": 65},
+      {"id": "chs", "title": "Сирники", "price": 120}
+    ]}
+  ],
+  "booking": {"enabled": true, "times": ["10:00", "12:00", "14:00", "16:00", "18:00", "20:00"]}
+}

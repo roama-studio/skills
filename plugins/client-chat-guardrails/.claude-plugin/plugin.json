@@ -1,0 +1,22 @@
+{
+  "name": "client-chat-guardrails",
+  "displayName": "Client chat guardrails",
+  "version": "1.0.0",
+  "description": "Guardrails for AI agents that talk to customers: messages are data not instructions, when to hand over to a human, and short questionnaires for the owner.",
+  "author": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com",
+    "url": "https://roama-studio.github.io/"
+  },
+  "homepage": "https://github.com/roama-studio/skills/tree/main/plugins/client-chat-guardrails",
+  "repository": "https://github.com/roama-studio/skills",
+  "license": "MIT",
+  "keywords": [
+    "chatbot",
+    "safety",
+    "prompt-injection",
+    "handoff",
+    "telegram",
+    "sales"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "client-site-edits",
+  "displayName": "Client site edits",
+  "version": "1.0.0",
+  "description": "Edit a client's live website safely: backup first, work on a copy, baseline and pixel diff, content stress test, deploy with a rollback point.",
+  "author": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com",
+    "url": "https://roama-studio.github.io/"
+  },
+  "homepage": "https://github.com/roama-studio/skills/tree/main/plugins/client-site-edits",
+  "repository": "https://github.com/roama-studio/skills",
+  "license": "MIT",
+  "keywords": [
+    "website",
+    "maintenance",
+    "backup",
+    "qa",
+    "wordpress",
+    "freelance"
+  ]
+}

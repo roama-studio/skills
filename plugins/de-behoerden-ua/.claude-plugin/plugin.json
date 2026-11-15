@@ -1,0 +1,22 @@
+{
+  "name": "de-behoerden-ua",
+  "displayName": "German bureaucracy for Ukrainians",
+  "version": "1.0.0",
+  "description": "Letters to German authorities (DIN 5008), deadlines with the calculation shown, honest legal research and a second check - explained in Ukrainian. Not legal advice.",
+  "author": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com",
+    "url": "https://roama-studio.github.io/"
+  },
+  "homepage": "https://github.com/roama-studio/skills/tree/main/plugins/de-behoerden-ua",
+  "repository": "https://github.com/roama-studio/skills",
+  "license": "MIT",
+  "keywords": [
+    "germany",
+    "ukrainian",
+    "jobcenter",
+    "behoerde",
+    "fristen",
+    "letters"
+  ]
+}

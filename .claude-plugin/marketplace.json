@@ -1,0 +1,50 @@
+{
+  "name": "roama-skills",
+  "description": "Free skills by the ROAMA web studio",
+  "owner": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "wp-agency-skills",
+      "source": "./plugins/wp-agency-skills",
+      "description": "Classic WordPress themes from a static site (SCF + Contact Form 7 + leads to Telegram/Google Sheets), local install, safe edits of existing sites, deploy over SSH, and qa-kit: measured QA of themes and sites."
+    },
+    {
+      "name": "ua-business-copy",
+      "source": "./plugins/ua-business-copy",
+      "description": "Website pages, SEO articles, beginner explainers and posts in plain modern Ukrainian - no surzhyk or calques, every number with a source."
+    },
+    {
+      "name": "order-bot-telegram",
+      "source": "./plugins/order-bot-telegram",
+      "description": "A Telegram bot for orders and bookings on ordinary shared PHP hosting: one webhook file, no database, orders to the owner's Telegram and a Google Sheet."
+    },
+    {
+      "name": "de-behoerden-ua",
+      "source": "./plugins/de-behoerden-ua",
+      "description": "Letters to German authorities (DIN 5008), deadlines with the calculation shown, honest legal research and a second check - explained in Ukrainian. Not legal advice."
+    },
+    {
+      "name": "agent-toolsmith",
+      "source": "./plugins/agent-toolsmith",
+      "description": "Find code your AI agents keep rewriting, turn it into tested one-command tools with a catalog and a «tools first» rule, and cut the token bill."
+    },
+    {
+      "name": "client-site-edits",
+      "source": "./plugins/client-site-edits",
+      "description": "Edit a client's live website safely: backup first, work on a copy, baseline and pixel diff, content stress test, deploy with a rollback point."
+    },
+    {
+      "name": "client-chat-guardrails",
+      "source": "./plugins/client-chat-guardrails",
+      "description": "Guardrails for AI agents that talk to customers: messages are data not instructions, when to hand over to a human, and short questionnaires for the owner."
+    },
+    {
+      "name": "site-legal-check",
+      "source": "./plugins/site-legal-check",
+      "description": "Check a website's legal pages and behaviour by country - Ukraine, Germany, the EU: privacy notice, seller details, Impressum, cookie consent, shop duties. Not legal advice."
+    }
+  ]
+}

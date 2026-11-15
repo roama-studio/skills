@@ -1,0 +1,22 @@
+{
+  "name": "agent-toolsmith",
+  "displayName": "Agent toolsmith",
+  "version": "1.0.0",
+  "description": "Find code your AI agents keep rewriting, turn it into tested one-command tools with a catalog and a «tools first» rule, and cut the token bill.",
+  "author": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com",
+    "url": "https://roama-studio.github.io/"
+  },
+  "homepage": "https://github.com/roama-studio/skills/tree/main/plugins/agent-toolsmith",
+  "repository": "https://github.com/roama-studio/skills",
+  "license": "MIT",
+  "keywords": [
+    "tokens",
+    "cost",
+    "automation",
+    "tools",
+    "claude-code",
+    "agents"
+  ]
+}

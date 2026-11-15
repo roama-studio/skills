@@ -1,0 +1,21 @@
+{
+  "name": "ua-business-copy",
+  "displayName": "Ukrainian business copy",
+  "version": "1.0.0",
+  "description": "Website pages, SEO articles, beginner explainers and posts in plain modern Ukrainian - no surzhyk or calques, every number with a source.",
+  "author": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com",
+    "url": "https://roama-studio.github.io/"
+  },
+  "homepage": "https://github.com/roama-studio/skills/tree/main/plugins/ua-business-copy",
+  "repository": "https://github.com/roama-studio/skills",
+  "license": "MIT",
+  "keywords": [
+    "ukrainian",
+    "copywriting",
+    "seo",
+    "content",
+    "small-business"
+  ]
+}

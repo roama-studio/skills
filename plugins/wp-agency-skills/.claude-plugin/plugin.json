@@ -1,0 +1,22 @@
+{
+  "name": "wp-agency-skills",
+  "displayName": "WordPress agency skills",
+  "version": "1.0.0",
+  "description": "Classic WordPress themes from a static site (SCF + Contact Form 7 + leads to Telegram/Google Sheets), local install, safe edits of existing sites, deploy over SSH, and qa-kit: measured QA of themes and sites.",
+  "author": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com",
+    "url": "https://roama-studio.github.io/"
+  },
+  "homepage": "https://github.com/roama-studio/skills/tree/main/plugins/wp-agency-skills",
+  "repository": "https://github.com/roama-studio/skills",
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "secure-custom-fields",
+    "contact-form-7",
+    "elementor",
+    "wp-cli",
+    "qa"
+  ]
+}

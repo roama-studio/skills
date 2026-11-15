@@ -1,0 +1,22 @@
+{
+  "name": "order-bot-telegram",
+  "displayName": "Telegram order bot (PHP)",
+  "version": "1.0.0",
+  "description": "A Telegram bot for orders and bookings on ordinary shared PHP hosting: one webhook file, no database, orders to the owner's Telegram and a Google Sheet.",
+  "author": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com",
+    "url": "https://roama-studio.github.io/"
+  },
+  "homepage": "https://github.com/roama-studio/skills/tree/main/plugins/order-bot-telegram",
+  "repository": "https://github.com/roama-studio/skills",
+  "license": "MIT",
+  "keywords": [
+    "telegram",
+    "bot",
+    "php",
+    "orders",
+    "booking",
+    "small-business"
+  ]
+}

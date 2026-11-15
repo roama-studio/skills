@@ -1,0 +1,22 @@
+{
+  "name": "site-legal-check",
+  "displayName": "Site legal check (UA/DE/EU)",
+  "version": "1.0.0",
+  "description": "Check a website's legal pages and behaviour by country - Ukraine, Germany, the EU: privacy notice, seller details, Impressum, cookie consent, shop duties. Not legal advice.",
+  "author": {
+    "name": "ROAMA web studio",
+    "email": "roama.studio@gmail.com",
+    "url": "https://roama-studio.github.io/"
+  },
+  "homepage": "https://github.com/roama-studio/skills/tree/main/plugins/site-legal-check",
+  "repository": "https://github.com/roama-studio/skills",
+  "license": "MIT",
+  "keywords": [
+    "legal",
+    "gdpr",
+    "dsgvo",
+    "impressum",
+    "ukraine",
+    "website"
+  ]
+}
